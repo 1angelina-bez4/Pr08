@@ -118,6 +118,7 @@ namespace Pr08_GIT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button2);
